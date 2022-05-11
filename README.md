@@ -2,7 +2,7 @@ Get yolo_v4 pretrained onnx model [here](https://github.com/onnx/models/tree/mai
 
 Some of results here:
 
-![example1](`ML_ObjectDetection\Assets\Output\bus_pedestrian._yoloed.jpg`)
-![example2](`ML_ObjectDetection\Assets\Output\cat._yoloed.jpg`)
-![example3](`ML_ObjectDetection\Assets\Output\cat_bird._yoloed.jpg`)
-![example4](`ML_ObjectDetection\Assets\Output\laptop._yoloed.jpg`)
+![example1](ML_ObjectDetection/Assets/Output/bus_pedestrian._yoloed.jpg)
+![example2](ML_ObjectDetection/Assets/Output/cat._yoloed.jpg)
+![example3](ML_ObjectDetection/Assets/Output/cat_bird._yoloed.jpg)
+![example4](ML_ObjectDetection/Assets/Output/laptop._yoloed.jpg)
